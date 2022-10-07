@@ -1,0 +1,22 @@
+{
+  "resources/js/app.js": {
+    "file": "assets/app.737b6a57.js",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/js/odometer.js": {
+    "file": "assets/odometer.ac6ce537.js",
+    "src": "resources/js/odometer.js",
+    "isEntry": true
+  },
+  "resources/css/odometer-theme-car.css": {
+    "file": "assets/odometer-theme-car.bcb82858.css",
+    "src": "resources/css/odometer-theme-car.css",
+    "isEntry": true
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app.525f5899.css",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  }
+}
